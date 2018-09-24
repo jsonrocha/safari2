@@ -1,0 +1,14 @@
+C:\assignments\safari2\bin\Debug\netcoreapp2.1\safari2.deps.json
+C:\assignments\safari2\bin\Debug\netcoreapp2.1\safari2.runtimeconfig.json
+C:\assignments\safari2\bin\Debug\netcoreapp2.1\safari2.runtimeconfig.dev.json
+C:\assignments\safari2\bin\Debug\netcoreapp2.1\safari2.dll
+C:\assignments\safari2\bin\Debug\netcoreapp2.1\safari2.pdb
+C:\assignments\safari2\obj\Debug\netcoreapp2.1\safari2.csprojAssemblyReference.cache
+C:\assignments\safari2\obj\Debug\netcoreapp2.1\safari2.csproj.CoreCompileInputs.cache
+C:\assignments\safari2\obj\Debug\netcoreapp2.1\safari2.RazorAssemblyInfo.cache
+C:\assignments\safari2\obj\Debug\netcoreapp2.1\safari2.RazorAssemblyInfo.cs
+C:\assignments\safari2\obj\Debug\netcoreapp2.1\safari2.AssemblyInfoInputs.cache
+C:\assignments\safari2\obj\Debug\netcoreapp2.1\safari2.AssemblyInfo.cs
+C:\assignments\safari2\obj\Debug\netcoreapp2.1\safari2.RazorTargetAssemblyInfo.cache
+C:\assignments\safari2\obj\Debug\netcoreapp2.1\safari2.dll
+C:\assignments\safari2\obj\Debug\netcoreapp2.1\safari2.pdb
